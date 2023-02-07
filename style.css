@@ -1,0 +1,52 @@
+h1 {
+	color: #E60F05;
+	background-color: blue;
+	text-align: center;
+	font-size: 64px;
+	font-family:'perconnect', sans-serif;
+}
+
+a {
+	margin: 0 auto;
+	width: 30%;
+	padding: 20px;
+	text-decoration: none;
+	border: 2px solid violet;
+	color: rgb(230,230,230);
+	background-color: Blue;
+	border-radius: 8px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+img {
+	height: 300px;
+	border-radius: 50%;
+	margin: 8px;
+}
+
+body{
+	font-family: Arial,serif;
+}
+
+selector {
+	attribute: value;
+}
+
+div {
+	background-color: lightgoldenrodyellow;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 600px;
+	margin: 20px auto;
+	padding: 10 px;
+	border-radius: 8px;
+	box-shadow: 4px 4 px 2 px 0px rgba(0,0,0,0.7);
+}
+
+#picture {
+	width: 300px;
+}
+#text-center{
+	text-align: center;
+}
